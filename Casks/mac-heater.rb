@@ -5,7 +5,7 @@ cask "mac-heater" do
      url "https://github.com/userrand6/<this-repo>/releases/download/v#{version}/MacHeater-#{version}.zip"
      name "Mac Heater"
      desc "Menu bar utility that warms up your MacBook with CPU and GPU load"
-     homepage "https://github.com/userrand6/<this-repo>"
+     homepage "https://github.com/userrand6/MacHeater"
 
      depends_on arch: :arm64
 
