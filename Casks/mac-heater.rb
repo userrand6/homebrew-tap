@@ -1,6 +1,6 @@
 cask "mac-heater" do
-     version "0.0.3"
-     sha256 "sha256:c85d7ce515052787d66bc08e1e123cdd816555d725b2e28c01ac44c2b122a27f"
+     version "0.0.4"
+     sha256 "3b138a64e881b30297ae224620623f523c002412683141023ad6dd5ff9fcb917"
 
      url "https://github.com/userrand6/MacHeater/releases/download/v#{version}/MacHeater-#{version}.zip"
      name "Mac Heater"
